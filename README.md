@@ -1,4 +1,4 @@
-# "Inkline Starter Template"
+# Inkline Starter Template
 
 [Link to the TypeScript version of this project](https://github.com/MRSessions/Inkline-Starter-Template-ts)
 
