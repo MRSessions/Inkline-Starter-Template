@@ -2,6 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite using Inkline UI.
 
+A very underwhelming demo can be found [here](https://green-mushroom-01320b310.2.azurestaticapps.net/)!
+
 ## About
 I decided to create this template to be able to get up and running with Inkline UI quickly. Inkline was something new that I wanted to try out in a quick side project, and I decided that I wanted a blank starter template to start with.
 
